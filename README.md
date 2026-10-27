@@ -36,7 +36,7 @@ Application d’assistance au catalogage de livres anciens à partir d’une pho
 - génération et export de fiches de catalogue.
 
 **Stack :** Laravel · PHP · MySQL · Blade · Tailwind · IA vision · Caddy  
-**Démonstration :** [antiqscan.vatinel.fr](https://antiqscan.vatinel.fr)
+
 
 ### [FitYourBooty](https://github.com/SebV-code/FitYourBooty)
 
@@ -48,7 +48,7 @@ Application web de collecte et de visualisation de données fitness, conçue pou
 - déploiement et maintenance sur VPS Linux.
 
 **Stack :** Laravel · PHP · MySQL · JavaScript · Plotly · Linux  
-**Démonstration :** [fit.vatinel.fr](https://fit.vatinel.fr)
+
 
 ## Compétences
 
