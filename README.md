@@ -13,12 +13,13 @@
 
 ## À propos
 
-Fort de plus de **10 ans d’expérience dans le e-commerce**, je mets ma connaissance des besoins métiers au service de projets data.
+🔬 Docteur en Sciences ·💲Entrepreneur e-commerce  · 📊Data Analyst en construction
+ 
+Mon parcours est atypique et transversal
+ 
+Après un doctorat en biologie/biotechnologie, 10 ans d'entrepreneuriat et gestion e-commerce (Wordpress, WooCommerce, marketplaces, SEO/SEA), je me reconvertis vers les métiers de la Data, là où convergent naturellement toutes mes compétences.
 
-**Docteur en sciences**, je mobilise rigueur analytique, autonomie et compréhension du terrain pour structurer et fiabiliser les données, produire des analyses utiles et concevoir des outils d’aide à la décision.
-
-Mon fil rouge : transformer des besoins concrets en solutions **documentées, mesurables et utilisables**.
-
+ 
 - Formation **Architecte en Intelligence Artificielle** — Jedha, certification RNCP niveau 7 en cours
 - Expérience en gestion de catalogues, qualité des données, SEO et pilotage e-commerce
 - Projets personnels déployés en production sur VPS Linux
