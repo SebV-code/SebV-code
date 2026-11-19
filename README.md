@@ -24,6 +24,20 @@ Mon fil rouge : transformer des besoins concrets en solutions **documentées, me
 - Projets personnels déployés en production sur VPS Linux
 - Basé près de Pau — télétravail ou présentiel
 
+## Compétences
+
+**Data & Analytics**  
+SQL · Python · Pandas · Power BI · DAX · Excel · Google Sheets
+
+**Structuration et qualité**  
+Modélisation de données · Nettoyage · Contrôles de cohérence · Documentation · Reporting
+
+**Automatisation IA**  
+Harness Hermes Agent [Mon agent Alf] · worklow vibe coding · Codex
+
+**Connaissance métier**  
+E-commerce · Catalogues produits · Marketplaces · SEO · CRM · Workflows assistés par IA
+
 ## Projets sélectionnés
 
 ### [AntIqscan](https://github.com/SebV-code/antiqscan)
@@ -58,19 +72,7 @@ Application web de collecte et de visualisation de données fitness, conçue pou
 **Stack :** Laravel · PHP · MySQL · JavaScript · Plotly · Linux  
 
 
-## Compétences
 
-**Data & Analytics**  
-SQL · Python · Pandas · Power BI · DAX · Excel · Google Sheets
-
-**Structuration et qualité**  
-Modélisation de données · Nettoyage · Contrôles de cohérence · Documentation · Reporting
-
-**Développement & exploitation**  
-Git · GitHub · Laravel · MySQL · Linux · VPS · Caddy · APIs
-
-**Connaissance métier**  
-E-commerce · Catalogues produits · Marketplaces · SEO · CRM · Workflows assistés par IA
 
 ## En ce moment
 
