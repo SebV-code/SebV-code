@@ -30,6 +30,10 @@ Mon fil rouge : transformer des besoins concrets en solutions **documentées, me
 
 Application d’assistance au catalogage de livres anciens à partir d’une photographie de page de titre.
 
+<p align="center">
+  <img src="docs/images/antiqscan-overview.png" alt="Bibliothèque AntIqscan avec import d’une page de titre, fiches à relire, recherche et export" width="600">
+</p>
+
 - extraction par IA limitée aux informations visibles ;
 - validation humaine avant tout enrichissement ;
 - sources, niveau de confiance et corrections conservés ;
@@ -41,6 +45,10 @@ Application d’assistance au catalogage de livres anciens à partir d’une pho
 ### [FitYourBooty](https://github.com/SebV-code/FitYourBooty)
 
 Application web de collecte et de visualisation de données fitness, conçue pour suivre les mesures, les objectifs et leur évolution dans le temps.
+
+<p align="center">
+  <img src="docs/images/fityourbooty-overview.png" alt="Tableau de bord FitYourBooty avec saisie des données quotidiennes et graphiques de suivi" width="800">
+</p>
 
 - saisie et historisation des données ;
 - tableaux et visualisations interactives ;
