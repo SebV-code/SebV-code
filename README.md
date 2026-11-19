@@ -43,16 +43,16 @@ E-commerce · Catalogues produits · Marketplaces · SEO · CRM · Workflows ass
 
 ### [AntIqscan](https://github.com/SebV-code/antiqscan)
 
-Application d’assistance au catalogage de livres anciens à partir d’une photographie de page de titre.
+Application d’assistance par IA au catalogage de livres anciens à partir d’une photographie de page de titre.
 
 <p align="center">
   <img src="docs/images/antiqscan-overview.png" alt="Bibliothèque AntIqscan avec import d’une page de titre, fiches à relire, recherche et export" width="600">
 </p>
 
-- extraction par IA limitée aux informations visibles ;
-- validation humaine avant tout enrichissement ;
-- sources, niveau de confiance et corrections conservés ;
-- génération et export de fiches de catalogue.
+- Extraction des infos par appel API à une IA vision ;
+- Enrichissement de la fiche produit par appel API LLM ;
+- Controle et édition des infos par main humaine ;
+- Génération et export de fiches de catalogue formatées.
 
 **Stack :** Laravel · PHP · MySQL · Blade · Tailwind · IA vision · Caddy  
 
@@ -65,10 +65,10 @@ Application web de collecte et de visualisation de données fitness, conçue pou
   <img src="docs/images/fityourbooty-overview.png" alt="Tableau de bord FitYourBooty avec saisie des données quotidiennes et graphiques de suivi" width="800">
 </p>
 
-- saisie et historisation des données ;
-- tableaux et visualisations interactives ;
-- suivi d’objectifs individuels ;
-- déploiement et maintenance sur VPS Linux.
+- Saisie et historisation des données ;
+- Tableaux et visualisations interactives ;
+- Duivi d’objectifs individuels ;
+- Déploiement et maintenance sur VPS Linux.
 
 **Stack :** Laravel · PHP · MySQL · JavaScript · Plotly · Linux  
 
